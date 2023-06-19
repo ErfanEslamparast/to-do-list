@@ -10,4 +10,4 @@ we can search a specific task in our list (dont want search the task correctly. 
 
 also in this program use localStorage for set the information on the storage of browser. that means if you reloading the program the task you already added is exist yet. when you remove a task it removes from local storage
 
-a last button removes all of tasks from list by one click
+the last button removes all of tasks from list by one click
